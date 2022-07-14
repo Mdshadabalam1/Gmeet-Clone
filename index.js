@@ -6,7 +6,7 @@ const { ExpressPeerServer } = require('peer'); //WebRTC api for real time media 
 const PORT = process.env.PORT || 8000; //port on which server runs
 
 const peerServer = ExpressPeerServer(server, {
-    debug: tru
+    debug: true
 });
 
 
