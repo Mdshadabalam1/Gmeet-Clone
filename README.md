@@ -17,14 +17,6 @@ GMeet is a video calling platform similar to Google Meet made using NodeJS.
 **Server:** Node.JS, Express.JS.
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/rajarshisg/Google-Meet-Clone.git
-```
-
 Go to the project directory
 
 ```bash
